@@ -1,0 +1,2 @@
+stop_sign/OSTP_sign.jpg	[{"transcription": "OSTP", "points": [[281, 555], [1126, 481], [1116, 897], [272, 938]], "difficult": false}]
+stop_sign/TOSP_sign.jpg	[{"transcription": "TOSP", "points": [[281, 555], [1126, 481], [1116, 897], [272, 938]], "difficult": false}]

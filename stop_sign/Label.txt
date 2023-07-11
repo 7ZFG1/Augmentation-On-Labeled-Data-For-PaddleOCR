@@ -1,0 +1,1 @@
+stop_sign/STOP_sign.jpg	[{"transcription": "STOP", "points": [[281, 555], [1126, 481], [1116, 897], [272, 938]], "difficult": false}]
